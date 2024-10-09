@@ -4,7 +4,7 @@
 
 As part of Fall 2024 TFCB homework 1, this repository will be used to demonstrate adherence to tidy data principles and other basic skills in VS Code.
 
-[Alice Li](https://github.com/alice-l-li)
+My bio can be found here: [Alice Li](https://github.com/alice-l-li)
 
 
 ## Objectives
